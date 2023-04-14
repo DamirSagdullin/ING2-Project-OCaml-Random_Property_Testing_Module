@@ -1,3 +1,3 @@
-# ING2 2022-2023 | OCaml project
+# ING2-Project-OCaml-Random_Property_Testing_Module
 
 cf Sujet.pdf pour les détails
